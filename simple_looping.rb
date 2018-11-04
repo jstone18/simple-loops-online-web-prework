@@ -23,6 +23,7 @@ def times_iterator(number_of_times)
   number_of_times.times do
   phrase = "Welcome to Flatiron School's Web Development Course!"
 end
+
 def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
   # hint: user a counter to tell the while loop when to stop!
